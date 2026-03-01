@@ -113,11 +113,3 @@ Smart_Home_Automation_System
 ```bash
 mvn clean javafx:run
 ```
-
-- Real-world simulation system thinking
-
-Ideal for:
-- Java Developer roles
-- Backend Engineering roles
-- IoT-related projects
-- System Design interviews
